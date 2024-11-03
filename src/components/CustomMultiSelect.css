@@ -1,0 +1,17 @@
+.custom-chip {
+  background-color: #e0e0e0;
+  padding: 0.3rem 0.6rem;
+  border-radius: 16px;
+  font-size: 0.9rem;
+  margin-right: 4px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.count-chip {
+  background-color: #e0e0e0;
+  padding: 0.3rem 0.6rem;
+  border-radius: 16px;
+  font-size: 0.9rem;
+  margin-right: 4px;
+}
